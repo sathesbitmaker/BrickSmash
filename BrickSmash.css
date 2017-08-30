@@ -1,0 +1,30 @@
+body  {
+  background-color: #20242b;
+      }
+
+.first {
+  padding-top: 100px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.second {
+  padding-top: 75px;
+  padding-left: 100px;
+}
+
+.third {
+  padding-top: 75px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+/*#21 {
+  padding-left: 200px;
+}*/
+
+.fourth {
+  padding-top: 75px;
+  padding-left: 150px;
+  padding-right: 50px;
+}
